@@ -7,4 +7,6 @@ sixth line
 seventh line
 EIGHTH LINE
 ninth line
-tenth line (corrected)
+tenth line (merge conflict solved)
+eleventh line
+twelfth line
